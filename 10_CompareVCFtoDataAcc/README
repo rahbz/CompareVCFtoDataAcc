@@ -1,0 +1,10 @@
+Only works on the inbred lines, if there are F2s and F3s use version 08 for now.
+
+# Changes:
+
+1) Used the likelihood ratio test.
+Accessions are sorted based on the likelihood ratios
+Ambiguous accessions are always first two accessions, after sorting.
+
+
+

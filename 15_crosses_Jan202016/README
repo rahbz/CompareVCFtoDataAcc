@@ -1,0 +1,14 @@
+
+
+
+Make used of the heterozygous calls
+for the VCF_1163
+
+1) 2 --> Heterozygous call
+2) 1 --> Homozygous call (ALT allele)
+3) 0 --> Reference allele
+4) -1 --> NAs
+
+
+Added printing the ScoreAcc also to the window based
+

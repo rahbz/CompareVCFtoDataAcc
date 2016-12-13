@@ -1,0 +1,9 @@
+
+Only works on the inbred lines, if there are F2s and F3s use version 08 for now.
+
+# Changes:
+
+1) ambiguous accessions are chosen from the clustering method (i.e., score > max(score) - 2*sd(score))
+ to the prop.test method taking a fraction 0.99 (i.e., 0.01 error rate to say both samples are same)
+
+2) Refined score, which is absent in the version 8
